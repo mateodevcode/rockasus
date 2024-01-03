@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------- themma ------------------ */
+
+.light {
+    background: #DFDFDF;
+    color: black;
+}
+
+.dark {
+    background: #1D093C;
+    color: white;
+}
+
+
+/* ------------- themma ------------------ */
